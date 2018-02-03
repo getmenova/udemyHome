@@ -1,2 +1,1 @@
-var name = "everyone!";
-console.log("Hello, " + name)
+console.log("It works!");
