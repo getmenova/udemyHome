@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 var path = require('path');
-var routes = require('./routes');
+var routes = require('./api/routes');
 // Define the port to run on
 app.set('port', 3000);
 // Add middleware to console log every request
