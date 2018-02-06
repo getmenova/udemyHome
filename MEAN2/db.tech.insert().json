@@ -8,6 +8,7 @@ db.tech.insert(
             name : "Angular",
             role : "Front-end framework"
         },
+        {
             name : "Node.js",
             role : "Platform"
         } 
@@ -18,3 +19,4 @@ db.tech.insert(
     db.tech.insert { 
 ...         "name" : "MongoDB",
 ...         "role" : "Database"
+
