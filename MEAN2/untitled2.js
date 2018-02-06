@@ -1,0 +1,22 @@
+[
+    {
+    "UserId" :1,
+    "UserName" : "MikeN",
+    "DisplayName" : "Michael Nowiszewski",
+    "Bio" : "To hire a coder you must learn to think like one."
+    },
+    {
+    "UserId" :2,
+    "UserName" : "SunT",
+    "DisplayName" : "Sun Tzu",
+    "Bio" : "Opportunities multiply as they are seized."
+    }
+]
+    
+    
+    
+    
+    
+    }
+    
+]
