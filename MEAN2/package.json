@@ -14,5 +14,8 @@
     "a"
   ],
   "author": "aa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
 }
