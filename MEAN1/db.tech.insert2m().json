@@ -1,0 +1,20 @@
+db.tech.insert(
+    [
+        {
+            name : "MongoDB",
+            role : "Database"
+        }
+     
+    ]
+    
+)
+    
+    db.tech.insert ({ 
+...         "name" : "MongoDB",
+...         "role" : "Database"}]   {
+            name : "Angular",
+            role : "Front-end framework"
+        },
+            name : "Node.js",
+            role : "Platform"
+        } 
